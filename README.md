@@ -1,0 +1,2 @@
+# Covid-19-diagnosis-systemusing-data-mining
+Covid-19 diagnosis system using data mining to identify people who are sick with Covid-19 by using other data for sick or healthy people through data such as temperature, oxygen percentage, and training the system again and again to increase its efficiency. I applied a computer and sent it to the deep learning system using Java and compared it with the information stored in the system. I designed the sensor system and programmed it using the C language, and I contributed to programming part of the deep learning system
